@@ -1,1 +1,9 @@
-
+name: Vladimir Matveev
+job: QA Engineer
+level: junior
+email: wowkaru@mail.ru
+description: Учусь в Hexlet.
+skills: 
+  - Функциональное тестирование
+  - Написание багрепортов
+  
