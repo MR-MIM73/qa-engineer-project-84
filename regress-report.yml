@@ -3,9 +3,6 @@
     Успешный поиск
   status: pass
 
-- summary: |
-    Проверка поиска отсутствующего товара
-  status: pass
 
   bugreports:
   - summary: |
@@ -21,15 +18,4 @@
     actual-result: |
      Кнопка "В корзину"смещена в право относительно карточки, сама карточка сужена
 
-      bugreports:
-  - summary: |
-       Проверка поиска отсутствующего товара
-    environment: |
-        Yandex Brouser Версия 24.1.3.809 (64-bit)
-        OS Windows 11
-    steps-to-reproduce: |
-       - Вводим в поле поиска Xiaomi 11
-    expected-result: |
-        На странице появляется надпись "Ничего не найдено!"
-    actual-result: |
-         Ни чего не происходит
+   
