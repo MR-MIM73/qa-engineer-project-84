@@ -1,9 +1,10 @@
 ---
-- summary: |
+test-cases:
+ - summary: |
     Успешный поиск
   status: pass
 
-  bugreports:
+bugreports:
   - summary: |
      Успешный поиск
     environment: |
