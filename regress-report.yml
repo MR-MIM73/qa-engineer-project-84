@@ -1,21 +1,8 @@
 ---
 test-cases:
- - summary: |
-    Успешный поиск
-  status: pass
-
-bugreports:
   - summary: |
-     Успешный поиск
-    environment: |
-     Yandex Brouser Версия 24.1.3.809 (64-bit)
-     OS Windows 11
-    steps-to-reproduce: |
-     - Вводим в поле поиска Iphone 9
-     - товар должен быть в наличии
-    expected-result: |
-     На странице должна отобразиться картинка с товаром Iphone 9,описанием, ценой и кнопкой добавления в "Корзину" внутри карточки с товаром
-    actual-result: |
-     кнопка в корзину выходит за края
-
-   
+      Успешный поиск
+    status: pass
+ 
+bugreports: []
+  
