@@ -14,3 +14,16 @@
     Корзина должна быть пустой
   actual-result: |
     В корзине сохранился товар и при переходе на главную страницу тоже
+    ---
+- summary: |
+    Значок флага
+  environment: |
+   Yandex Brouser Версия 24.1.3.809 (64-bit)
+   OS Windows 11
+  steps-to-reproduce: |
+    1. Зайти на страницу магазина https://hexlet-products-store.vercel.app/cart
+    2. Нажать на слово "Language"
+  expected-result: |
+   Должен быть значок флага английского языка
+  actual-result: |
+    Значок флага не отображается
