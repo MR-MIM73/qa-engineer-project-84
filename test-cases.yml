@@ -4,7 +4,7 @@
   requirement: |
    проверка поиска товара
   prerequisites: |
-   - должна быть открыта страница магазина https://hexlet-products-store.vercel.app/
+   - должна быть открыта страница магазина 
    - товар должен быть в наличии
   test-data: |
     Товар: смартфон Iphone 9
