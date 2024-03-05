@@ -2,5 +2,8 @@
 - summary: |
     Успешный поиск
   status: pass
+- summary: |
+    Поиск товара
+  status: pass
 
 
