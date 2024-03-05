@@ -32,7 +32,7 @@
   prerequisites: |
      Влючен другой язык
   test-data: |
-    no data
+    нет данных
   steps:
     - нажать кнопку "Язык", выбрать русский
   expected-result: |
