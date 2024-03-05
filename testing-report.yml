@@ -13,6 +13,6 @@
    status: pass
 - summary: |
     Количество товара
-    status: pass
+    status: fail
   
 
