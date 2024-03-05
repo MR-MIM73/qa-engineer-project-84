@@ -5,5 +5,14 @@
 - summary: |
     Поиск товара
   status: pass
-
+- summary: |
+   Переключение на русский язык
+   status: pass
+- summary: |
+   Переключение на английский язык
+   status: pass
+- summary: |
+    Количество товара
+    status: pass
+  
 
