@@ -23,3 +23,21 @@
 - summary: |
     Фильтрация по цене
   status: pass 
+- summary: |
+    проверка товара по наличию
+  status: pass 
+- summary: |
+    добавление товаров в корзину
+  status: pass
+- summary: |
+    Удаление из корзины
+  status: pass
+- summary: |
+    Добавление нескольких одинаковых товаров в корзину
+  status: pass
+- summary: |
+    Добавление нескольких разных товаров в корзину
+  status: pass
+- summary: |
+   Покупка товара
+  status: pass
