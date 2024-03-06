@@ -3,11 +3,23 @@
         Успешный поиск
   status: pass
 - summary: |
-        Поиск товара
+   Поиск несуществующего товара
   status: pass
 - summary: |
        Переключение на русский язык
   status: pass
-
-  
-
+- summary: |
+    Переключение на русский язык
+   status: pass
+- summary: |
+    просмотр информации товара
+    status: pass  
+- summary: |
+    Фильтрация по категориям
+    status: pass  
+- summary: |
+    Фильтрация по производителю
+    status: pass 
+- summary: |
+    Фильтрация по цене
+    status: pass 
