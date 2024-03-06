@@ -1,25 +1,25 @@
 ---
 - summary: |
         Успешный поиск
-  status: pass
+        status: pass
 - summary: |
-   Поиск несуществующего товара
-  status: pass
+         Поиск несуществующего товара
+         status: pass
+- summary: |
+        Переключение на русский язык
+        status: pass
 - summary: |
        Переключение на русский язык
-  status: pass
+       status: pass
 - summary: |
-    Переключение на русский язык
-   status: pass
+       просмотр информации товара
+       status: pass  
 - summary: |
-    просмотр информации товара
-    status: pass  
+       Фильтрация по категориям
+       status: pass  
 - summary: |
-    Фильтрация по категориям
-    status: pass  
+       Фильтрация по производителю
+       status: pass 
 - summary: |
-    Фильтрация по производителю
-    status: pass 
-- summary: |
-    Фильтрация по цене
-    status: pass 
+       Фильтрация по цене
+       status: pass 
