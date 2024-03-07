@@ -46,7 +46,7 @@
   status: pass
 - summary: |
    проверка хэштега для перехода в категорию
-  status: pass
+  status: fail
 - summary: |
    проверка отображения в браузере Yandex Версия 24.1.3.809 (64-bit)
   status: pass
