@@ -1,8 +1,64 @@
 ---
-test-cases:
-  - summary: |
-      Успешный поиск
-    status: pass
- 
-bugreports:   []
- 
+- summary: |
+    Успешный поиск
+  status: pass
+- summary: |
+    Поиск несуществующего товара
+  status: pass
+- summary: |
+    Переключение на русский язык
+  status: pass
+- summary: |
+    Переключение на русский язык
+  status: pass
+- summary: |
+    просмотр информации товара
+  status: pass  
+- summary: |
+    Фильтрация по категориям
+  status: pass  
+- summary: |
+    Фильтрация по производителю
+  status: pass 
+- summary: |
+    Фильтрация по цене
+  status: pass 
+- summary: |
+    проверка товара по наличию
+  status: pass 
+- summary: |
+    добавление товаров в корзину
+  status: pass
+- summary: |
+    Удаление из корзины
+  status: pass
+- summary: |
+    Добавление нескольких одинаковых товаров в корзину
+  status: pass
+- summary: |
+    Добавление нескольких разных товаров в корзину
+  status: pass
+- summary: |
+   Покупка товара
+  status: pass
+- summary: |
+   просмотр страниц магазина
+  status: pass
+- summary: |
+   проверка хэштега для перехода в категорию
+  status: fail
+- summary: |
+   проверка отображения в браузере Yandex Версия 24.1.3.809 (64-bit)
+  status: pass
+- summary: |
+   проверка отображения в браузере Firefox Версия 123.0.1
+  status: pass
+- summary: |
+   проверка отображения на мобильном устройстве
+  status: fail
+- summary: |
+   проверка защиты передаваемых данных
+  status: pass
+- summary: |
+   проверка отправки и получения данных
+  status: pass
