@@ -55,7 +55,7 @@
   status: pass
 - summary: |
    проверка отображения на мобильном устройстве
-  status: pass
+  status: fail
 - summary: |
    проверка защиты передаваемых данных
   status: pass
