@@ -1,4 +1,5 @@
 ---
+test-cases:
 - summary: |
     Успешный поиск
   status: fail
