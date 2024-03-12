@@ -58,6 +58,6 @@
   status: pass
 - summary: |
    проверка отправки и получения данных
-  status: fail
+  status: pass
 
 bugreports: [] 
