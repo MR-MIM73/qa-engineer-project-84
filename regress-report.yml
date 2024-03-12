@@ -59,3 +59,5 @@
 - summary: |
    проверка отправки и получения данных
   status: pass
+
+bugreports: [] 
