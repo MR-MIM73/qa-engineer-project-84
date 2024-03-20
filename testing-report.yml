@@ -32,11 +32,11 @@
   status: pass 
   
 - summary: |
-    проверка товара по наличию
+    Проверка товара по наличию
   status: pass 
   
 - summary: |
-    добавление товаров в корзину
+    Добавление товаров в корзину
   status: pass
   
 - summary: |
@@ -52,8 +52,12 @@
   status: pass
   
 - summary: |
-    Покупка товара
+   Успешное оформление товара
   status: pass
+
+- summary: |
+   Покупка товара
+  status: fail
   
 - summary: |
     просмотр страниц магазина
