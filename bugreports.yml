@@ -78,7 +78,7 @@
   actual-result: |
     Остаемся на той же странице
 
- - summary: |
+- summary: |
     Проверка отображения на мобильном устройстве не корректна
   environment: |
     Yandex Brouser Версия 24.1.3.809 (64-bit)
