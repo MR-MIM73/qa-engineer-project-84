@@ -29,7 +29,7 @@
   
 - summary: |
     Фильтрация по цене
-  status: pass 
+  status: fail 
   
 - summary: |
     Проверка товара по наличию
@@ -49,7 +49,7 @@
   
 - summary: |
     Добавление нескольких разных товаров в корзину
-  status: pass
+  status: fail
   
 - summary: |
    Успешное оформление товара
