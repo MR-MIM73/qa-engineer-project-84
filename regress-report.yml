@@ -83,4 +83,6 @@ test-cases:
    проверка запроса оформления заказа 
   status: fail 
 
+bugreports: []
+
 
