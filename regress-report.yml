@@ -103,40 +103,40 @@ bugreports:
 
 - summary: |
       Поиск несуществующего товара
-    environment: |
+   environment: |
       Yandex Brouser Версия 24.1.3.809 (64-bit)
       OS Windows 11
-    steps-to-reproduce: |
+   steps-to-reproduce: |
       Ввести в поле "Поиск" несуществующее название
-    expected-result: |
+   expected-result: |
       На странице появляется сообщение "Ничего не найдено!"
-    actual-result: |
+   actual-result: |
       Надпись не появляется,отображается таблица товаров
 
 - summary: |
      Фильтрация по производителю
-    environment: |
+   environment: |
       Yandex Brouser Версия 24.1.3.809 (64-bit)
       OS Windows 11
-    steps-to-reproduce: |
+   steps-to-reproduce: |
       Выбрать производителя
       Поставить в чекбоксе производителя галочку
-    expected-result: |
+   expected-result: |
       На странице должны отобразиться товары выбранного производителя
-    actual-result: |
+   actual-result: |
       Кнопка "В корзину" выходит за границы карточки
 
 - summary: |
      Фильтрация по цене
-    environment: |
+   environment: |
       Yandex Brouser Версия 24.1.3.809 (64-bit)
       OS Windows 11
-    steps-to-reproduce: |
+   steps-to-reproduce: |
       Выбрать производителя
       Поставить в чекбоксе производителя галочку
-    expected-result: |
+   expected-result: |
       На странице должны отобразиться товары выбранного производителя
-    actual-result: |
+   actual-result: |
       Кнопка "В корзину" выходит за границы карточки
  
 
